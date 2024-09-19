@@ -1,0 +1,49 @@
+body{
+    color:#777777;
+    font-family:"Poppins", sans-serif;
+    font-size: 15px;
+    line-height: 1.5px;
+    position: Relative;
+    margin: 0;
+    max-width: 1200px;
+}
+
+.header{
+    background-color: #fff;
+    padding:20px;
+    width: 100%;
+    box-shadow: -20px 20px 20px rgba(158, 158, 158, 0.3);
+}
+
+.cont{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+.nav a{
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-left: 70px;
+    transition: color 0.3s ease-in-out;
+}
+
+.nav a:hover{
+    color: #f7427f;
+}
+
+.ban{
+    background: url(https://altcampus.github.io/platina/img/header-bg.jpg) center / cover no-repeat fixed
+}

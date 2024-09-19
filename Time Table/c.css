@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    border:2px solid #b94941;
+    background-color:rgb(140, 171, 236);
+    width: 500px;
+    margin: 20px auto;
+}
+
+th{
+    background-color: rgb(180, 219, 250);
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+
+table{
+    border: 1px solid black;
+    margin: auto;
+    border-collapse: collapse;
+}
+

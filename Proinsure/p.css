@@ -1,0 +1,195 @@
+body{
+    line-height: 1.5;
+    font-family: "karla", sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "DM Serif Display", serif;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.align{
+    align-items: flex-start;
+}
+.header{
+    position: fixed;
+    width: 100%;
+    padding: 15px 0px;
+    background-color: #ffffff;
+    box-shadow:0 2px 4px rgba(0,0,0,0.5);
+    top: 0;
+}
+
+.box{
+    padding: 0 20px;
+    max-width: 1200px;
+}
+
+.pro{
+    font-size: 40px;
+    font-family: "DM Serif Display", serif;
+    color:#2d2640 ;
+}
+
+.nav a{
+    text-transform: uppercase;
+    color:#6e6b74;
+    font-weight: 700;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.plans{
+    border:1px solid #6e6b74;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #6e6b74;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+}
+
+.nav a:hover{
+    color: #2C2641;
+}
+
+.plans:hover{
+    background-color: #2C2641;
+    color: #ffffff;
+}
+
+.human{
+    background-color: #2d2640;
+    color: #ffffff;
+    padding: 50px 0;
+    margin-top: 80px;
+}
+
+.line{
+    width: 300px;
+    color: #bcb8c4;
+    height: 3px;
+}
+
+.fGSB{
+    flex: 0 1 45%;
+}
+
+.humanising{
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 15px;
+}
+
+.p1{
+    color: #bcb8c4;
+    font-size: 15px;
+}
+
+.planz{
+    border-color: #ffffff;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.planz:hover{
+    background-color: #ffffff;
+    color: #2C2641;
+}
+
+.pad{
+    padding: 70px 0;
+}
+
+.img100{
+    width: 100%;
+}
+
+.overlap{
+    margin-bottom: -150px;
+}
+
+.about{
+    margin-top: 80px;
+}
+
+.aboutt{
+    font-size: 20px;
+    line-height: 1.5;
+    color: #6e6b74;
+    margin: 25px 0;
+}
+
+.headd{
+    font-size: 50px;
+    color: #2d2640;
+}
+
+.difH{
+    margin-bottom: 30px;
+}
+
+.difh{
+    font-size: 30px;
+    color: #2d2640;
+    margin: 25px 0 10px 0;
+}
+
+.icon{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    background-color:#8ab4f0;
+}
+
+.more{
+    color: #ffffff;
+    background-color:#2d2640;
+    padding: 80px 60px;
+}
+
+.moreh{
+    font-size: 50px;
+}
+
+.payr{
+    margin-top: 50px;
+}
+.footH{
+    font-size: 40px;
+}
+
+.dandi{
+    border-bottom: 1px solid black;
+}
+
+.footnav{
+    padding: 20px 0;
+    text-align: center;
+}
+
+.payr a{
+    color: #6e6b74;
+    margin-left: 30px;
+    font: 30px;
+}
+
+.c{
+    color: ceru;
+}

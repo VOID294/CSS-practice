@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+    background-color: lightpink;
+}
+
+.center{
+    text-align: center;
+}
+
+.h{
+    border-top: 1px solid navy;
+    border-bottom: 1px solid navy;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.hot{
+    letter-spacing: 6px;
+    color: hotpink;
+    font-style: italic;
+    background-color: yellow;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    font-weight: bold;
+}
+
+.cold{
+    font-style: bold;
+    color: rgb(2, 212, 212);
+    background-color: lightblue;
+    letter-spacing: 20px;
+    text-align: center;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+}
+
+.redhr{
+    color:crimson;
+    height:5px
+}
+
+
+.zero{
+    padding: 0 5px;
+    margin: 0 5px;
+}
